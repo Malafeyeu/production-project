@@ -43,6 +43,6 @@ module.exports = {
       "@typescript-eslint/no-floating-promises": "off"
     },
     "globals": {
-      "__IS_DEV__": true,
+      __IS_DEV__: true,
     }
 }
